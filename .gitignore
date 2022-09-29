@@ -1,0 +1,5 @@
+data/train/
+data/test1/
+data/dogs-vs-cats.zip
+__pycache__/
+dogs_cats/
